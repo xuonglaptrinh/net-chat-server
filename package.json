@@ -4,7 +4,7 @@
   "description": "Chat Server use 'net' module",
   "main": "index.js",
   "scripts": {
-    "start": "node net_chat_server_step_1.js"
+    "start": "node net_chat_server_step_2.js"
   },
   "repository": {
     "type": "git",
