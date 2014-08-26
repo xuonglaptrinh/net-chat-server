@@ -7,8 +7,8 @@ var net = require('net'),
 chatServer.on('connection', function(client) {
   client.write('Hi!\n');
   client.write('Bye!\n');
-  client.end()
-})
+  client.end();
+});
 
 chatServer.listen(9000, function(){
   Utils.writeLog('net chat server listen on port 9000');
