@@ -3,6 +3,7 @@
 /*
   Use it for displaying color code in console
   https://github.com/medikoo/cli-color
+  Maybe help you.
  */
 
 (function() {
