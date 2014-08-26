@@ -27,10 +27,10 @@ Chat Server use 'net' module
 
 Điều này sẽ reset workspace của bạn về step tương ứng. Bạn sẽ lặp lại điều này mỗi khi muốn chuyển step.
 
-Bạn cần cài đặt các phụ thuộc:
+- Bạn cần cài đặt các phụ thuộc:
 `npm install`
 
-Chạy:
+- Chạy:
 `npm start`
 
 
