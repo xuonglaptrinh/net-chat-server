@@ -1,0 +1,27 @@
+{
+  "name": "net-chat-server",
+  "version": "0.0.1",
+  "description": "Chat Server use 'net' module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node net_chat_server_step_3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuonglaptrinh/net-chat-server"
+  },
+  "keywords": [
+    "net",
+    "chatserver"
+  ],
+  "author": "NgaNguyenDuy, DavidNguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuonglaptrinh/net-chat-server/issues"
+  },
+  "homepage": "https://github.com/xuonglaptrinh/net-chat-server",
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "underscore": "^1.6.0"
+  }
+}
