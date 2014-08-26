@@ -1,0 +1,22 @@
+{
+  "name": "net-chat-server",
+  "version": "0.0.0",
+  "description": "Code Example Net module =======================",
+  "main": "net_chat_server_step_1.js",
+  "scripts": {
+    "start": "node read_file_paralel_step_1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuonglaptrinh/net-chat-server"
+  },
+  "author": "NgaNguyenDuy, DavidNgV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuonglaptrinh/net-chat-server/issues"
+  },
+  "homepage": "https://github.com/xuonglaptrinh/net-chat-server",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  }
+}
